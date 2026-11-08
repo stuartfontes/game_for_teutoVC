@@ -1,0 +1,20 @@
+{
+  "volume": 0.1,
+  "tela": 1,
+  "crt": true,
+  "cano": 1,
+  "musica_menu": "menu_song.mp3",
+  "musica_jogo": "game_song.mp3",
+  "audio": {
+    "acerto": "coin_song.mp3",
+    "erro": "wrong.mp3",
+    "vitoria": "won.mp3",
+    "derrota": "loose.mp3"
+  },
+  "visual": {
+    "ceu": "predio_8bit_HD.png",
+    "sol": "sol.png",
+    "montanhas": "nuvens.png",
+    "chao": "chao_industrial.png"
+  }
+}

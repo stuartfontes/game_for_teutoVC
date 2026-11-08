@@ -1,0 +1,37 @@
+[
+  {
+    "nome": "Xarope simples",
+    "etapas": [
+      "Pesar a água purificada",
+      "Aquecer a água a 60 graus",
+      "Dissolver o açúcar sob agitação",
+      "Resfriar a solução à temperatura ambiente",
+      "Filtrar o xarope",
+      "Envasar e identificar o lote"
+    ]
+  },
+  {
+    "nome": "Sabonete líquido",
+    "etapas": [
+      "Pesar as matérias-primas",
+      "Misturar a água com o tensoativo",
+      "Adicionar a fragrância e o corante",
+      "Ajustar o pH da mistura",
+      "Aprovar a amostra no controle de qualidade",
+      "Envasar nos frascos",
+      "Rotular e embalar"
+    ]
+  },
+  {
+    "nome": "Tinta acrílica branca",
+    "etapas": [
+      "Carregar a água no tanque",
+      "Adicionar o dispersante sob agitação",
+      "Incorporar o pigmento branco",
+      "Dispersar em alta rotação",
+      "Adicionar a resina acrílica",
+      "Ajustar viscosidade e pH",
+      "Filtrar e envasar"
+    ]
+  }
+]

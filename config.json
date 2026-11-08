@@ -1,0 +1,20 @@
+{
+  "volume": 0.1,
+  "tela": 4,
+  "crt": true,
+  "cano": 1,
+  "musica_menu": "musica_de_fundo_2.mp3",
+  "musica_jogo": "xtremefreddy-game-music-loop-7-145285 (1).mp3",
+  "audio": {
+    "acerto": "universfield-game-bonus-02-294436.mp3",
+    "erro": "vadim_makes_sound-retro-arcade-game-over-622954.mp3",
+    "vitoria": "bombinsound-upbeat-advertising-version-7-only-time-626842.mp3",
+    "derrota": "alphix-game-over-417465.mp3"
+  },
+  "visual": {
+    "ceu": "predio_8bit_HD.png",
+    "sol": "sol.png",
+    "montanhas": "Imagem de extensão do Photoshop (3).png",
+    "chao": "chao_industrial2.png"
+  }
+}
